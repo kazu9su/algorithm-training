@@ -1,6 +1,6 @@
 <?php
 
-require_once 'combination.php';
+require_once '../src/combination.php';
 
 class CombinationTest extends PHPUnit_Framework_TestCase
 {
